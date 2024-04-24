@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+header {
+    width: 100%;
+    margin: 0;
+}
+
+#vinculo {
+    font-family: "Nunito";
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: 300;
+    margin: 1cm;
+    color: rgb(250, 171, 60);
+    font-weight: 700;
+    
+}
+
+
+#vinculo:hover {
+    font-style: italic;
+    text-decoration: underline;
+}
+
+a {
+color: black;
+text-decoration: none;
+font-size: 24px;
+margin: 1cm;
+
+}
+
+a:hover {
+    font-style: italic;
+    text-decoration: underline;
+}
+
+
+li{
+    font-family: "Nunito";
+    font-size: 24px;
+    text-decoration: none;
+    color: black;
+    margin-left: 1cm;
+
+}
+
+
+h1{
+    text-align: center;
+    font-family: "Nunito";
+    font-size: 45px;
+    color: rgb(250, 171, 60);
+    ;
+
+}
+
+h2 {
+    font-family: "Nunito";
+    font-size: 30px;
+    margin: 1cm;
+    color: rgb(250, 171, 60)
+}
+
+.texto {
+    font-family: "OpenSans";
+    margin: 1cm;
+    font-size: 24px;
+    color: black;
+}
+
+
+img {
+    width: 30%;
+    margin: auto;
+    display: block;
+    border-radius: 50%;
+  
+}
+
+h3{
+    font-family: "Nunito";
+    font-size: 24px;
+    margin: 1cm;
+    color:rgb(255, 237, 211);;  
+    background-color: rgb(250, 171, 60);
+}
